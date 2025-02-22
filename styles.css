@@ -50,6 +50,7 @@ body{
 
 .navbar .list li {
   display: inline-block;
+  list-style: none;
 }
 
 .navbar .list a {
